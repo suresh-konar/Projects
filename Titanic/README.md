@@ -1,4 +1,4 @@
-# Fake News Detection Analysis - LSTM Classification
+# Titanic - Machine Learning from Disaster
 
 # Dataset Information
 
